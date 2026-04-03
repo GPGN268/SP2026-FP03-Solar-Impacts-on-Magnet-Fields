@@ -20,7 +20,7 @@ Data from NASA's MAVEN and ESA's Mars Express missions during solar events in 20
 magnetic barrier, the solar storms often cause an increase of extreme radiation levels on the surface. Often during solar storms on Earth, we are
 protected by the shape of the magnetic field since it acts like a rock in the river and deflects the charged particles.
 
-![](../SP2026-FP03-Solar-Impacts-on-Magnet-Fields/earth_mag_field.png)
+<img width="592" height="391" alt="earth_mag_field" src="https://github.com/user-attachments/assets/154c27f0-badc-4b42-979e-948391e91715" />
 
 Exploring these how planet's interaction is different will provide insight to the consideration of human habitability, and the challenges that come
 along with it.
