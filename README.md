@@ -61,7 +61,9 @@ solar event. Overall, this should show how important a strong magnetic field is 
 ### References
 
 <https://svs.gsfc.nasa.gov/5502/#:~:text=Mars%27s%20magnetosphere%20experienced%20a%20strong,the%20magnetic%20field%20is%20strongest>
+
 <https://www.space.com/astronomy/sun/reining-in-the-sun-venus-earth-and-jupiter-may-work-together-to-reduce-the-risk-of-extreme-solar-storms>
+
 <https://svs.gsfc.nasa.gov/5502/>
 
 
