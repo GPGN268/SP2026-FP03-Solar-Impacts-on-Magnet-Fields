@@ -66,6 +66,27 @@ solar event. Overall, this should show how important a strong magnetic field is 
 
 <https://svs.gsfc.nasa.gov/5502/>
 
+### Data Exploration Plots
+
+Maven Data 
+
+There was a solar event on September 14, 2017 
+
+These plots show the spike in each direction of the megnetopshere of mars 
+
+![Magnetic Field Components](magnetic_comps.png)
+
+
+This plot shows the magnitude of the magnetic field during this event
+
+![Magnitude](Bmag.png)
+
+This plot shows a zoomed in version of the spike, focusing on when the solar wind made it to Mars (Sept 12-16)
+
+![Focused](zoomed_in.png)
+
+
+
 
 
 
