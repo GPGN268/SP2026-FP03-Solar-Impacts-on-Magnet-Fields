@@ -39,6 +39,7 @@ magnetic field on Mars.
 - ACE data to monitor solar wind: <https://izw1.caltech.edu/ACE/ASC/browse/view_browse_data.html?.com>
 - NOAA Space Weather Prediction Center: <https://www.swpc.noaa.gov/products/real-time-solar-wind>
 - SWMF Datasets for weather prediction and impacts on Mars: <https://clasp.engin.umich.edu/research/theory-computational-methods/space-weather-modeling-framework/swmf-downloadable-software/>
+- Perseverance rover data- 
 
 ### Methodology
 
