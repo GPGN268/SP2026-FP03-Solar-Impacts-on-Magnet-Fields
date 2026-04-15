@@ -39,6 +39,12 @@ magnetic field on Mars.
 - ACE data to monitor solar wind: <https://izw1.caltech.edu/ACE/ASC/browse/view_browse_data.html?.com>
 - NOAA Space Weather Prediction Center: <https://www.swpc.noaa.gov/products/real-time-solar-wind>
 - SWMF Datasets for weather prediction and impacts on Mars: <https://clasp.engin.umich.edu/research/theory-computational-methods/space-weather-modeling-framework/swmf-downloadable-software/>
+- Perseverance rover data- 
+
+
+## Tools/Packages
+
+- glob <https://docs.python.org/3/library/glob.html>
 
 ### Methodology
 
@@ -49,7 +55,7 @@ and compare that data to Earth's using space weather data like geomagnetic index
 We plan to make time-series graphs that show what is happening before, during, and after the storms for both planets so we can track the differences in
 patterns. We will also puth the Earth and Mars data charts side-by-side which should make it easier to draw comparisons.
 
-### Expected Outcomes
+### Expected Outcomes & Challenges
 
 We expect to see large differences between how Earth and Mars responds to solar storms, based mostly on the difference in the respective planets' fields.
 On Earth, we anticipate disturbances like geomagnetic storms distorting the magnetosphere. While on Mars, we expect a much large amount of electromagnetic
@@ -57,6 +63,8 @@ radiation and energetic particles reaching the planet's day-time surface.
 
 We will also consider how the solar winds played a role in removing Mars' atmosphere, and how much does the atmospheric stripping rate change during a 
 solar event. Overall, this should show how important a strong magnetic field is for planetary habitability.
+
+A problem that we could run into, more so a challenge, is that some of the data is embedded it's own unique zip file (like the NOAA datasets), it it'll just take more time to read in and clean all of the data.
 
 ### References
 
