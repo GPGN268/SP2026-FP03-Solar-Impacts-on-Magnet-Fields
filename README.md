@@ -80,7 +80,7 @@ Maven Data
 
 There was a solar event on September 14, 2017 
 
-These plots show the spike in each direction of the megnetopshere of mars 
+These plots show the spike in each direction of the magnetopshere of mars 
 
 ![Magnetic Field Components](media/magnetic_comps.png)
 
