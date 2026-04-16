@@ -94,7 +94,7 @@ This plot shows a zoomed in version of the spike, focusing on when the solar win
 ![Focused](media/zoomed_in.png)
 
 
-[Code for Data Exploration (Makenna)](milestone_2/data_exploration.ipynb)
+[Code for Data Exploration (Makenna)](milestone2/data_exploration.ipynb)
 
 
 
