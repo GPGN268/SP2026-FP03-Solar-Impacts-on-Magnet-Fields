@@ -89,7 +89,7 @@ This plot shows the magnitude of the magnetic field during this event
 
 ![Magnitude](media/Bmag.png)
 
-This plot shows a zoomed in version of the spike, focusing on when the solar wind made it to Mars (Sept 12-16)
+This plot shows a zoomed in version of the spike, focusing on when the solar wind made it to Mars (Sept 12-14)
 
 ![Focused](media/zoomed_in.png)
 
