@@ -80,18 +80,22 @@ Maven Data
 
 There was a solar event on September 14, 2017 
 
-These plots show the spike in each direction of the megnetopshere of mars 
+These plots show the spike in each direction of the magnetopshere of mars 
 
-![Magnetic Field Components](magnetic_comps.png)
+![Magnetic Field Components](media/magnetic_comps.png)
 
 
 This plot shows the magnitude of the magnetic field during this event
 
-![Magnitude](Bmag.png)
+![Magnitude](media/Bmag.png)
 
-This plot shows a zoomed in version of the spike, focusing on when the solar wind made it to Mars (Sept 12-16)
+This plot shows a zoomed in version of the spike, focusing on when the solar wind made it to Mars (Sept 12-14)
 
-![Focused](zoomed_in.png)
+![Focused](media/zoomed_in.png)
+
+
+[Code for Data Exploration (Makenna)](milestone2/data_exploration.ipynb)
+
 
 
 
